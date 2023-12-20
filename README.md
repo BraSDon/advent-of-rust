@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains my solutions for the Advent of Code (AoC) challenges, implemented in Rust.
+Thanks @0xbe7a for the great repository, very helpful for a Rust beginner like me :D
 
 ## Folder Structure
 The project is organized into several directories:
