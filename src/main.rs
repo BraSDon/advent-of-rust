@@ -51,6 +51,7 @@ fn main() {
         6 => solve_day!(day06, &input),
         7 => solve_day!(day07, &input),
         9 => solve_day!(day09, &input),
+        11 => solve_day!(day11, &input),
         15 => solve_day!(day15, &input),
         _ => println!("day not solved: {}", day),
     }
